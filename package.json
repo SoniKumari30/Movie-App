@@ -2,7 +2,7 @@
   "name": "movie-web-app-challenge",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SoniKumari30.github.io/Movie-App",
+  "homepage": "https://SoniKumari30.github.io/movie-appnpm",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
