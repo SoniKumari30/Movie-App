@@ -11,7 +11,7 @@ class ShowMovie extends React.Component{
     }
     componentDidMount(){
         const id=this.props.match.params.imdbID
-        axios.get(`http://www.omdbapi.com/?i=${id}&apikey=72c11475`)
+        axios.get(`https://www.omdbapi.com/?i=${id}&apikey=72c11475`)
         .then(response=>{
             const details=response.data
             console.log('movie details',details)
