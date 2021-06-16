@@ -7,7 +7,7 @@ class Movie extends React.Component{
         super()
         this.state={
             movie:[],
-            data:'',//
+            data:'',
         }
     }
     handleSearch=(e)=>{

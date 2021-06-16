@@ -7,7 +7,7 @@ class ShowMovie extends React.Component{
         super()
         this.state={
             details:{}
-        }//
+        }
     }
     componentDidMount(){
         const id=this.props.match.params.imdbID
