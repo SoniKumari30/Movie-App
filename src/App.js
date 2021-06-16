@@ -6,7 +6,7 @@ import showMovie from './component/ShowMovie'
 function App(props)
 {
     return(
-        <BrowserRouter>
+        <BrowserRouter>//
             <div>
                 <h2>WELCOME TO MOVIE WEB APP CHALLENGES...</h2>
                 <Link to='/'></Link>
